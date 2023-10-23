@@ -1,0 +1,32 @@
+/* Footer */
+.footer-container {
+  font-family: 'Exo 2', sans-serif;
+  display: flex;
+  font-size: 0.7rem;
+  background: midnightblue;
+
+  border-top: 2px solid #0ccac4;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.footer-container h2 {
+  text-decoration: none;
+  font-family: 'Varela Round', sans-serif;
+
+  color: #ffffff;
+  text-shadow: 1px 1px 1px black;
+}
+
+.footer-container a {
+  text-decoration: none;
+  font-family: 'Varela Round', sans-serif;
+
+  color: #0ccac4;
+  text-shadow: 1px 1px 1px black;
+}
+
+.footer-container a:hover {
+  color: #5bbd22c5;
+}
