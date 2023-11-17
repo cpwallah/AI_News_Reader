@@ -1,3 +1,3 @@
 # AI_News_Reader
 
-https://www.loom.com/share/c2c4658390304962af7bb0da6bb0d5c1?sid=85d5caae-a422-404f-9d8d-ac8aacafa103
+https://www.loom.com/share/b53202fedd8743b88e9bd0028761a354?sid=446a73ff-fc96-4186-aea4-e28193894716
