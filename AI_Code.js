@@ -1,9 +1,9 @@
 // Use this sample to create your own voice commands
-// play('Welcome to the Alan AI News Reader App by Rehan Khalil')
+// play('Welcome to the Alan AI News Reader App by Shivansh Negi')
 intent('hello', p => {
     p.play('(I AM SHIVANSH. A PROFESSIONAL AND ENTHUSIASTIC WEB DEVELOPER)');
 });
-// reply('Welcome to the Alan AI News Reader App by Rehan Khalil')
+// reply('Welcome to the Alan AI News Reader App by Shivansh Negi')
 
 // intent('What does this app do?','what can i do here?',reply('This is a News App'));
 
